@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Evaluate the following phrase by transforming it into the spelling given.",
+        "input": "freind --> friend",
+        "output": "The input \"freind\" is a misspelling. The correct spelling is \"friend\". Therefore, the transformed phrase is: \"friend\"."
+    },
+    {
+        "instruction": "Edit the following sentence for grammar.",
+        "input": "He go to the park every day.",
+        "output": "The corrected sentence is: \"He goes to the park every day.\" The verb \"go\" needs to be changed to \"goes\" because it must agree with the singular subject \"He.\" In English, the present tense form of the verb \"to go\" changes to \"goes\" when used with third-person singular subjects (he, she, it). Therefore, the correct form is \"He goes.\""
+    },
+    {
+        "instruction": "Convert 45 kilometers to meters.",
+        "input": "",
+        "output": "To convert kilometers to meters, you can use the conversion factor that 1 kilometer is equal to 1000 meters. Therefore, to convert 45 kilometers to meters, you multiply 45 by 1000. \n\nSo, 45 kilometers is equal to:\n45 km \u00d7 1000 m/km = 45000 meters.\n\nThus, 45 kilometers is 45000 meters. This conversion is useful in various contexts, such as in travel distances or scientific measurements, where precise units are important."
+    }
+]

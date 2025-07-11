@@ -29,3 +29,5 @@ Temporary Items
 # Git and Python directories
 .git
 .venv
+.vscode
+
